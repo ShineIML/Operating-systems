@@ -1,4 +1,4 @@
-# Operating systems - Copymaster
+# Operating systems – сopymaster
 
 Implement a program that will copy data from one file to another, depending on the terminal arguments, implement functions specifically for each argument.
 
