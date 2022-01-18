@@ -1,6 +1,6 @@
-# Operating systems – сopymaster
+# сopymaster
 
-Implement a program that will copy data from one file to another, depending on the terminal arguments, implement functions specifically for each argument.
+Implemented a program that will copy data from one file to another, depending on the terminal arguments, implemented functions specifically for each argument.
 
 ## Usage
 
